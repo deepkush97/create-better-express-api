@@ -1,6 +1,6 @@
 {
   "name": "create-better-express-api",
-  "version": "0.9.0",
+  "version": "1.0.0",
   "description": "A npm runner to create a 'better' node express API application boilerplate using typescript and includes swagger-ui for documentation and some security package for basic security",
   "main": "index.js",
   "bin": {
