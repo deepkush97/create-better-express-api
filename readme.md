@@ -2,7 +2,7 @@
 
 ## Introduction
 
-- A npm runner for creating boilerplate by Better Express API Structure project.
+- A npm runner which creates application boilerplate with typescript in a better project structure which includes swagger-ui documentation and some security aspects.
 
 ## Usage
 
