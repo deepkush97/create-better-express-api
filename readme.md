@@ -15,8 +15,6 @@ npx create-better-express-api name_of_app
 
 _Note : Installing the package globally will not be updated automatically if a new version is available._
 
-## Open Issues
-
 ## Next Steps
 
 - Provide more granular control options.
