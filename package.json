@@ -1,0 +1,19 @@
+{
+  "name": "create-better-express-api",
+  "version": "0.9.0",
+  "description": "A npm runner to create a 'better' node express API application boilerplate using typescript and includes swagger-ui for documentation and some security package for basic security",
+  "main": "index.js",
+  "bin": {
+    "create-better-express-api": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deepkush97/create-better-express-api.git"
+  },
+  "keywords": [],
+  "author": "Deepanshu Kushwaha",
+  "license": "MIT"
+}
