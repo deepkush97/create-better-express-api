@@ -19,3 +19,6 @@ _Note : Installing the package globally will not be updated automatically if a n
 
 - Provide more granular control options.
 - Make this better with the betterment in the source project.
+
+
+_Note : For any more information about the project structure and its execution, [check the source project's repository](https://github.com/deepkush97/better-express-api-structure-ts)._
